@@ -1,0 +1,24 @@
+.board {
+  border:1px solid rgb(134, 154, 189);
+}
+
+.row{
+  height: 45px;
+}
+
+.cell {
+  width: 45px;
+  height:45px;
+  display: inline-block;
+}
+
+.snakecell{
+  background-color: red;
+  border-radius: 1px;
+  border-radius: 15px;
+  outline: none;
+} 
+
+.foodcell{
+  background-color:green;
+}
