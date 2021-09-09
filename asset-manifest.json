@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Hungary-Snack/static/css/main.b084105a.chunk.css",
-    "main.js": "/Hungary-Snack/static/js/main.dcd2c66b.chunk.js",
-    "main.js.map": "/Hungary-Snack/static/js/main.dcd2c66b.chunk.js.map",
+    "main.js": "/Hungary-Snack/static/js/main.93e50f0b.chunk.js",
+    "main.js.map": "/Hungary-Snack/static/js/main.93e50f0b.chunk.js.map",
     "runtime-main.js": "/Hungary-Snack/static/js/runtime-main.6462dd56.js",
     "runtime-main.js.map": "/Hungary-Snack/static/js/runtime-main.6462dd56.js.map",
     "static/js/2.0939adee.chunk.js": "/Hungary-Snack/static/js/2.0939adee.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.6462dd56.js",
     "static/js/2.0939adee.chunk.js",
     "static/css/main.b084105a.chunk.css",
-    "static/js/main.dcd2c66b.chunk.js"
+    "static/js/main.93e50f0b.chunk.js"
   ]
 }
